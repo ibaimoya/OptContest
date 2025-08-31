@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./images/banner.png" alt="OptContest — Flow Shop Permutacional (Ibai Moya Aroz)" width="100%" />
+</p>
+
 # OptContest
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**OptContest** es una actividad d de optimización en el grado de **Ingeniería Informática** (Universidad de Burgos). Se publican unas **instancias** de un problema combinatorio y el alumnado desarrolla **heurísticas** y **metaheurísticas** para obtener buenas soluciones en **tiempo limitado**, con métricas objetivas para comparar resultados. Este proyecto está preparado para ese formato: lee instancias desde un dataset, ejecuta varios algoritmos clásicos y reporta métricas comparables.
+**OptContest** es una actividad de optimización en el grado de **Ingeniería Informática** (Universidad de Burgos). Se publican unas **instancias** de un problema combinatorio y el alumnado desarrolla **heurísticas** y **metaheurísticas** para obtener buenas soluciones en **tiempo limitado**, con métricas objetivas para comparar resultados. Este proyecto está preparado para ese formato: lee instancias desde un dataset, ejecuta varios algoritmos clásicos y reporta métricas comparables.
 
 ---
 ## Índice
